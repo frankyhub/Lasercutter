@@ -1,3 +1,3 @@
-## Stigtebox Katze
+## Stiftebox Katze
 
 ![pi](pic/Katze.png)
